@@ -1,0 +1,41 @@
+inherited frmAutenticar: TfrmAutenticar
+  Caption = 'frmBase1'
+  DesignerMasterStyle = 0
+  inherited layBase: TLayout
+    object pnlPesquisar: TPanel
+      Align = Top
+      Margins.Left = 5.000000000000000000
+      Margins.Top = 20.000000000000000000
+      Margins.Right = 5.000000000000000000
+      Position.X = 5.000000000000000000
+      Position.Y = 20.000000000000000000
+      Size.Width = 630.000000000000000000
+      Size.Height = 35.000000000000000000
+      Size.PlatformDefault = False
+      StyleLookup = 'pushpanel'
+      TabOrder = 4
+      object edtArquivo: TEdit
+        Touch.InteractiveGestures = [LongTap, DoubleTap]
+        Align = Top
+        TabOrder = 1
+        TextSettings.Font.Size = 15.000000000000000000
+        Size.Width = 630.000000000000000000
+        Size.Height = 32.000000000000000000
+        Size.PlatformDefault = False
+        TextPrompt = 'Digite o c'#243'digo de autentica'#231#227'o do arquivo'
+        StyledSettings = [Family, Style, FontColor]
+        OnKeyDown = edtArquivoKeyDown
+      end
+      object spbArquivo: TSpeedButton
+        Align = FitRight
+        Position.X = 596.093750000000000000
+        Size.Width = 33.906250000000000000
+        Size.Height = 35.000000000000000000
+        Size.PlatformDefault = False
+        StyleLookup = 'ellipseseditbutton'
+        Text = 'spbArquivo'
+        OnClick = spbArquivoClick
+      end
+    end
+  end
+end

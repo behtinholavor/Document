@@ -1,0 +1,13 @@
+﻿[stbMain]
+Coordinates=0,0,60,36
+
+[layMain]
+Coordinates=227,146,59,36
+
+[aclMain]
+Coordinates=334,243,59,36
+
+[]
+Coordinates=334,133,55,36
+Visible=True
+

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/05/29 09:58:08.000.462,=C:\Users\r.de.lavor.rodrigues\OneDrive - Avanade\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/05/29 09:59:07.000.580,C:\Users\r.de.lavor.rodrigues\OneDrive - Avanade\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Embarcadero\Studio\Projects\Document\ufrmMain.pas</Transaction>
+    <Transaction>2019/05/29 09:59:07.000.580,C:\Users\r.de.lavor.rodrigues\OneDrive - Avanade\Documents\Embarcadero\Studio\Projects\Unit1.fmx=C:\Embarcadero\Studio\Projects\Document\ufrmMain.fmx</Transaction>
+    <Transaction>2019/05/29 09:59:18.000.194,C:\Users\r.de.lavor.rodrigues\OneDrive - Avanade\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Embarcadero\Studio\Projects\Document\Document.dproj</Transaction>
+    <Transaction>2019/05/29 13:15:02.000.601,=C:\Embarcadero\Studio\Projects\Document\Unit1.pas</Transaction>
+    <Transaction>2019/05/29 13:15:23.000.047,C:\Embarcadero\Studio\Projects\Document\ufrmAdicionar.fmx=C:\Embarcadero\Studio\Projects\Document\Unit1.fmx</Transaction>
+    <Transaction>2019/05/29 13:15:23.000.047,C:\Embarcadero\Studio\Projects\Document\ufrmAdicionar.pas=C:\Embarcadero\Studio\Projects\Document\Unit1.pas</Transaction>
+    <Transaction>2019/05/29 13:30:48.000.851,C:\Embarcadero\Studio\Projects\Document\ufrmEnviar.fmx=C:\Embarcadero\Studio\Projects\Document\ufrmAdicionar.fmx</Transaction>
+    <Transaction>2019/05/29 13:30:48.000.851,C:\Embarcadero\Studio\Projects\Document\ufrmEnviar.pas=C:\Embarcadero\Studio\Projects\Document\ufrmAdicionar.pas</Transaction>
+    <Transaction>2019/05/30 14:59:29.000.582,=C:\Embarcadero\Studio\Projects\Document\ufrmBase.pas</Transaction>
+    <Transaction>2019/05/30 15:00:50.000.096,=C:\Embarcadero\Studio\Projects\Document\Unit1.pas</Transaction>
+    <Transaction>2019/05/30 15:01:18.000.661,C:\Embarcadero\Studio\Projects\Document\Unit1.pas=C:\Embarcadero\Studio\Projects\Document\ufrmEnviar.pas</Transaction>
+    <Transaction>2019/05/30 15:01:18.000.661,C:\Embarcadero\Studio\Projects\Document\Unit1.fmx=C:\Embarcadero\Studio\Projects\Document\ufrmEnviar.fmx</Transaction>
+    <Transaction>2019/05/30 15:28:30.000.481,=C:\Embarcadero\Studio\Projects\Document\Unit1.pas</Transaction>
+    <Transaction>2019/05/30 15:28:42.000.469,C:\Embarcadero\Studio\Projects\Document\Unit1.pas=C:\Embarcadero\Studio\Projects\Document\ufrmPesquisar.pas</Transaction>
+    <Transaction>2019/05/30 15:28:42.000.469,C:\Embarcadero\Studio\Projects\Document\Unit1.fmx=C:\Embarcadero\Studio\Projects\Document\ufrmPesquisar.fmx</Transaction>
+    <Transaction>2019/05/30 15:41:32.000.187,=C:\Embarcadero\Studio\Projects\Document\Unit1.pas</Transaction>
+    <Transaction>2019/05/30 15:41:44.000.254,C:\Embarcadero\Studio\Projects\Document\Unit1.fmx=C:\Embarcadero\Studio\Projects\Document\ufrmAutenticar.fmx</Transaction>
+    <Transaction>2019/05/30 15:41:44.000.254,C:\Embarcadero\Studio\Projects\Document\Unit1.pas=C:\Embarcadero\Studio\Projects\Document\ufrmAutenticar.pas</Transaction>
+  </Transactions>
+</BorlandProject>
