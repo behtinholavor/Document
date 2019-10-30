@@ -52595,7 +52595,6 @@ object frmMain: TfrmMain
       ShowHint = True
       StyleLookup = 'drawertoolbutton'
       Text = 'Menu'
-      OnClick = spbMenuClick
     end
     object spbFechar: TSpeedButton
       Align = Right
@@ -52624,7 +52623,7 @@ object frmMain: TfrmMain
     Mode = NavigationPane
     NavigationPaneOptions.CollapsedWidth = 46.000000000000000000
     Size.Width = 250.000000000000000000
-    Size.Height = 400.000000000000000000
+    Size.Height = 552.000000000000000000
     Size.PlatformDefault = False
     TabOrder = 0
     object spbAjuda: TSpeedButton

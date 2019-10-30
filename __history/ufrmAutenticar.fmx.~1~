@@ -1,4 +1,0 @@
-inherited frmAutenticar: TfrmAutenticar
-  Caption = 'frmBase1'
-  DesignerMasterStyle = 0
-end
